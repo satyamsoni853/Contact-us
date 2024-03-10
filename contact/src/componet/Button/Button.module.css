@@ -1,0 +1,37 @@
+.primary_btn{
+    padding: 18px 18px;
+    background-color: black;
+    counter-reset: white;
+    border-radius: 5px;
+    min-width: 220px;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+    
+}
+.ouline_btn{
+    padding: 18px 18px;
+    /* background-color: black; */
+    border: 1px solid black;
+    counter-reset: white;
+    border-radius: 5px;
+    min-width: 220px; 
+    width: 200%; 
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    justify-content: center;
+    color: black;
+    cursor: pointer;
+    
+}
+.top_btn{
+   
+}
+.contact_form{
+    display: flex;
+    justify-content: space-between;
+}

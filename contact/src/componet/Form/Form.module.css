@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  /* max-width: 10000px;
+  margin: 0 auto; */
+}
+.form_controler {
+    display: flex;
+    flex-direction: column;
+    width: 200%;
+    height: 41px;
+    position: relative;
+    margin-top: 30px;
+    margin: 40px;
+}
+.form_controler input {
+    height: 40px;
+    padding: 0 8px;
+}
+.form_controler label{
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    background-color: white;
+    padding: 0 10px;
+}
+.contact_Image{
+    margin-left: 550px;
+    /* display: block; */
+}
+
+.top_btn{
+    /* border: 2px solid red; */
+    /* width: 200%; */
+    margin-top: 40px;
+    margin: 40px;
+}
